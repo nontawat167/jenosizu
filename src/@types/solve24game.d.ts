@@ -1,1 +1,0 @@
-declare module "24game-solver"
