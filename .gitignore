@@ -1,4 +1,4 @@
 node_modules/
 *.tsbuildinfo
 build
-# config/default.json
+config/default.json
